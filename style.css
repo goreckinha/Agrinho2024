@@ -20,4 +20,6 @@ background-color: aliceblue;
 
 .cabecalho_menu-listaitem{
     display: inline;
+    text-transform: uppercase;
+    margin-left: 10px;
 }
