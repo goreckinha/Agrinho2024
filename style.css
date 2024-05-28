@@ -3,6 +3,9 @@ background-color: #b8a7c9d0;
 }
 
 header{
+display: flex;
+align-items: center;
+justify-self: unset;
 background-color: rgb(165, 115, 196);   
 }
 
