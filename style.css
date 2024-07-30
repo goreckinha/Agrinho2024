@@ -4,7 +4,7 @@ body {
     
     header {
     display: flex;
-    background-color: rgba(147, 216, 248, 0.493);
+    background-color: rgba(139, 196, 223, 0.493);
     justify-content: space-between;
     align-items: center;
     }
