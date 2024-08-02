@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(213, 124, 243);
+    background-color: rgb(226, 156, 250);
     }
     
     header {
     display: flex;
-    background-color: rgba(195, 138, 201, 0.863);
+    background-color: rgba(219, 165, 225, 0.863);
     justify-content: space-between;
     align-items: center;
     }
