@@ -48,6 +48,10 @@ body {
             gap: 20px;
             padding: 20px;
         }
+        .elementos__texto{
+            width: 500px;
+            height: 500px;   
+        }
         .elementos__div{
             text-align: center;
         }
