@@ -4,12 +4,12 @@ body {
     
     header {
     display: flex;
-    background-color: rgba(207, 194, 152, 0.863);
+    background-color: rgba(250, 191, 247, 0.863);
     justify-content: space-between;
     align-items: center;
     }
     footer{
-     background-color: rgb(161, 5, 161);  
+     background-color: rgb(250, 171, 250);  
     
     }
     cabecalho-imagem{
